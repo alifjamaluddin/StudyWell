@@ -32,5 +32,11 @@
             </intent-filter>
         </activity>
     </application>
+<<<<<<< HEAD
 
 </manifest>
+=======
+    
+    <uses-permission android:name="android.permission.INTERNET" />
+</manifest>
+>>>>>>> pr/2
